@@ -1,0 +1,27 @@
+Katedra technickej kybernetiky
+
+Vedúci: doc. Ing. Peter Ševčík, PhD. (doc. Ing. Peter PhD.)
+Zástupca vedúceho: Ing. Michal Hodoň, PhD. (Ing. Michal PhD.)
+Sekretariát: Mgr. Viera Černeková (Mgr. )
+
+Celkový počet zamestnancov: 11
+Počet profesorov (s titulom prof.): 1
+Počet docentov (s titulom doc.): 3
+Počet doktorandov (PhD. študentov): 2
+
+Zamestnanci:
+Ing. Lukáš Čechovič, PhD.                Lukas.Cechovic@fri.uniza.sk (Ing. Lukáš PhD.)
+Mgr. Viera Černeková                     Viera.Cernekova@fri.uniza.sk (Mgr. )
+Ing. Lukáš Formanek, PhD.                Lukas.Formanek@fri.uniza.sk (Ing. Lukáš PhD.)
+Ing. Michal Hodoň, PhD.                  Michal.Hodon@fri.uniza.sk (Ing. Michal PhD.)
+Ing. Miroslav Chochul, PhD.              Miroslav.Chochul@st.fri.uniza.sk (Ing. Miroslav PhD.)
+doc. Ing. Ján Kapitulík, PhD.            Jan.Kapitulik@fri.uniza.sk (doc. Ing. Ján PhD.)
+doc. Ing. Ondrej Karpiš, PhD.            Ondrej.Karpis@pd.uniza.sk (doc. Ing. Ondrej PhD.)
+prof. Ing. Juraj Miček, PhD.             Juraj.Micek@fri.uniza.sk (prof. Ing. Juraj PhD.)
+Ing. Veronika Olešnaníková, PhD.         Veronika.Olesnanikova@fri.uniza.sk (Ing. Veronika PhD.)
+Ing. Peter Šarafín, PhD.                 Peter.Sarafin@fri.uniza.sk (Ing. Peter PhD.)
+doc. Ing. Peter Ševčík, PhD.             Peter.Sevcik@fri.uniza.sk (doc. Ing. Peter PhD.)
+
+Doktorandi:
+Ing. Michal Kochláň                      michal.kochlan@fri.uniza.sk (Ing. )
+Ing. Andrej Tupý                         Andrej.Tupy@fri.uniza.sk (Ing. )

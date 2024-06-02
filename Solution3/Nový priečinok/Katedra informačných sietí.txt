@@ -1,0 +1,32 @@
+Katedra informačných sietí
+
+Vedúci: prof. Ing. Pavel Segeč, PhD. (prof. Ing. Pavel PhD.)
+Zástupca vedúceho: Mgr. Jana Uramová, PhD. (Mgr. Jana PhD.)
+Sekretariát: Mária Liskayová ( )
+
+Celkový počet zamestnancov: 13
+Počet profesorov (s titulom prof.): 3
+Počet docentov (s titulom doc.): 2
+Počet doktorandov (PhD. študentov): 5
+
+Zamestnanci:
+Ing. Ivana Brídová, PhD.                 bridova1@fri.uniza.sk (Ing. Ivana PhD.)
+Ing. Petr Ivaniga, PhD.                  Petr.Ivaniga@fri.uniza.sk (Ing. Petr PhD.)
+Ing. Roman Kaloč, PhD.                   roman.kaloc@fri.uniza.sk (Ing. Roman PhD.)
+prof. Ing. Martin Klimo, PhD.            Martin.Klimo@fri.uniza.sk (prof. Ing. Martin PhD.)
+Ing. Martin Kontšek, PhD.                Martin.Kontsek@fri.uniza.sk (Ing. Martin PhD.)
+prof. Ing. Tatiana Kováčiková, PhD.      Tatiana.Kovacikova@fri.uniza.sk (prof. Ing. Tatiana PhD.)
+Mária Liskayová                          Maria.Liskayova@fri.uniza.sk ( )
+Ing. Marek Moravčík, PhD.                Marek.Moravcik@fri.uniza.sk (Ing. Marek PhD.)
+doc. Ing. Jozef Papán, PhD.              Jozef.Papan@fri.uniza.sk (doc. Ing. Jozef PhD.)
+prof. Ing. Pavel Segeč, PhD.             Pavol.Segec@fri.uniza.sk (prof. Ing. Pavel PhD.)
+doc. Mgr. Juraj Smieško, PhD.            Juraj.Smiesko@fri.uniza.sk (doc. Mgr. Juraj PhD.)
+Ing. Ondrej Škvarek, PhD.                Ondrej.Skvarek@fri.uniza.sk (Ing. Ondrej PhD.)
+Mgr. Jana Uramová, PhD.                  jana.uramova@fri.uniza.sk (Mgr. Jana PhD.)
+
+Doktorandi:
+Ing. Michal Hraška                       Michal.Hraska@fri.uniza.sk (Ing. )
+Ing. Ján Jurč                            jan.jurc@fri.uniza.sk (Ing. )
+Ing. Jaroslav Kopčan                     jaroslav.kopcan@fri.uniza.sk (Ing. )
+Ing. Ľubomír Králik                      Lubomir.Kralik@fri.uniza.sk (Ing. )
+Ing. Michal Šterbák                      michal.sterbak@fri.uniza.sk (Ing. )

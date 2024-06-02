@@ -1,0 +1,80 @@
+﻿<Window x:Class="PeopleDepartment.ViewerWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PeopleDepartment.ViewerWpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height=" auto"/>
+            <RowDefinition Height=" auto"/>
+            <RowDefinition Height=" auto"/>
+            <RowDefinition Height=" auto"/>
+            <RowDefinition Height=" auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            
+            <RowDefinition Height="*"/>
+
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button  Grid.Column="0" Grid.Row="0" Margin="5" Click="Nacitanie">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Otvorit..." VerticalAlignment="Center" Margin="5"/>
+            </StackPanel>
+        </Button>
+        <TextBlock Grid.Row="0" Grid.Column="1" Text="Department" Margin="5" VerticalAlignment="Center" FontSize="15"></TextBlock>
+        <ComboBox x:Name="combobox1" Grid.Row="0" Grid.Column="3" Margin="5"  SelectionChanged="combobox_SelectionChanged"  ></ComboBox>
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Head:" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="15"></TextBlock>
+        <TextBlock x:Name="t1" Grid.Row="1" Grid.Column="1" Margin="5" VerticalAlignment="Center" FontSize="13" Text=""/>
+        
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Deputy:" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="15"></TextBlock>
+        <TextBlock x:Name="t2" Grid.Row="2" Grid.Column="1" Margin="5" VerticalAlignment="Center" FontSize="13" Text=""/>
+        
+        <TextBlock Grid.Row="3" Grid.Column="0" Text="Secretary:" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="15"></TextBlock>
+        <TextBlock x:Name="t3" Grid.Row="3" Grid.Column="1" Margin="5" VerticalAlignment="Center" FontSize="13" Text=""/>
+        
+        
+        
+        <TextBlock Grid.Row="4" Grid.Column="0" Text="Employees:" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="15"></TextBlock>
+        <TextBlock x:Name="emp" Grid.Row="4" Grid.Column="3" Text="Počet:0" VerticalAlignment="Center" Margin="0,0,10,0" HorizontalAlignment="right" FontSize="15"></TextBlock>
+        <TextBlock Grid.Row="6" Grid.Column="0" Text="Phd.Students:" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="15"></TextBlock>
+        <TextBlock x:Name="phd" Grid.Row="6" Grid.Column="3" Text="Počet:0" VerticalAlignment="Center" Margin="0,0,10,0" HorizontalAlignment="right" FontSize="15"></TextBlock>
+
+        <ListView x:Name="listViewEmployees" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="3" Margin="5">
+            <ListView.View>
+                <GridView>
+                   
+                    <GridViewColumn Header="Title Before" DisplayMemberBinding="{Binding TitleBefore}" Width="100"/>
+                    <GridViewColumn Header="First Name" DisplayMemberBinding="{Binding FirstName}" Width="150"/>
+                    <GridViewColumn Header="Last Name" DisplayMemberBinding="{Binding LastName}" Width="150"/>
+                    <GridViewColumn Header="Title After" DisplayMemberBinding="{Binding TitleAfter}" Width="100"/>
+                    <GridViewColumn Header="Email" DisplayMemberBinding="{Binding Email}" Width="200"/>
+                    <GridViewColumn Header="Position" DisplayMemberBinding="{Binding Position}" Width="150"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <ListView x:Name="listViewEmployees1"  Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="3" Margin="5">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Title Before" DisplayMemberBinding="{Binding TitleBefore}" Width="100"/>
+                    <GridViewColumn Header="First Name" DisplayMemberBinding="{Binding FirstName}" Width="150"/>
+                    <GridViewColumn Header="Last Name" DisplayMemberBinding="{Binding LastName}" Width="150"/>
+                    <GridViewColumn Header="Title After" DisplayMemberBinding="{Binding TitleAfter}" Width="100"/>
+                    <GridViewColumn Header="Email" DisplayMemberBinding="{Binding Email}" Width="200"/>
+                    <GridViewColumn Header="Position" DisplayMemberBinding="{Binding Position}" Width="150"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>

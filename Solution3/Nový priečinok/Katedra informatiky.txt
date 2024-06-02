@@ -1,0 +1,39 @@
+Katedra informatiky
+
+Vedúci: prof. Ing. Vitaly Levashenko, PhD. (prof. Ing. Vitaly PhD.)
+Zástupca vedúceho: doc. Ing. Miroslav Kvaššay, PhD. (doc. Ing. Miroslav PhD.)
+Sekretariát: Anna Ilovská ( )
+
+Celkový počet zamestnancov: 19
+Počet profesorov (s titulom prof.): 3
+Počet docentov (s titulom doc.): 6
+Počet doktorandov (PhD. študentov): 6
+
+Zamestnanci:
+doc. Ing. Ján Boháčik, PhD.              Jan.Bohacik@fri.uniza.sk (doc. Ing. Ján PhD.)
+Anna Ilovská                             Anna.Ilovska@fri.uniza.sk ( )
+doc. Ing. Jozef Kostolný, PhD.           Jozef.Kostolny@fri.uniza.sk (doc. Ing. Jozef PhD.)
+doc. Ing. Miroslav Kvaššay, PhD.         Miroslav.Kvassay@fri.uniza.sk (doc. Ing. Miroslav PhD.)
+PaedDr. Nika Kvaššayová, PhD.            Nika.Kvassayova@fri.uniza.sk (PaedDr. Nika PhD.)
+doc. Ing. Marek Kvet, PhD.               Marek.Kvet@fri.uniza.sk (doc. Ing. Marek PhD.)
+doc. Ing. Michal Kvet, PhD.              Michal.Kvet@fri.uniza.sk (doc. Ing. Michal PhD.)
+prof. Ing. Vitaly Levashenko, PhD.       Vitaly.Levashenko@fri.uniza.sk (prof. Ing. Vitaly PhD.)
+RNDr. Denisa Maceková, PhD.              Denisa.Macekova@fri.uniza.sk (RNDr. Denisa PhD.)
+prof. Ing. Karol Matiaško, PhD.          Karol.Matiasko@fri.uniza.sk (prof. Ing. Karol PhD.)
+Ing. Ján Rabčan, PhD.                    Jan.Rabcan@fri.uniza.sk (Ing. Ján PhD.)
+Ing. Patrik Rusnák, PhD.                 Patrik.Rusnak@fri.uniza.sk (Ing. Patrik PhD.)
+Ing. Peter Sedláček, PhD.                Peter.Sedlacek@fri.uniza.sk (Ing. Peter PhD.)
+Ing. Veronika Šalgová, PhD.              Veronika.Salgova@fri.uniza.sk (Ing. Veronika PhD.)
+Ing. Monika Václavková, PhD.             Monika.Vaclavkova@fri.uniza.sk (Ing. Monika PhD.)
+Ing. Michal Varga, PhD.                  Michal.Varga@fri.uniza.sk (Ing. Michal PhD.)
+Ing. Anna Vargová, PhD.                  anna.vargova@fri.uniza.sk (Ing. Anna PhD.)
+doc. Ing. Michal Zábovský, PhD.          Michal.Zabovsky@fri.uniza.sk (doc. Ing. Michal PhD.)
+prof. Ing. Elena Zaitseva, PhD.          Elena.Zaitseva@fri.uniza.sk (prof. Ing. Elena PhD.)
+
+Doktorandi:
+Ing. Martina Hrínová Durneková           martina.durnekova@fri.uniza.sk (Ing. Martina )
+Ing. Oľga Chovancová                     Olga.Chovancova@fri.uniza.sk (Ing. )
+Ing. Michal Mrena                        Michal.Mrena@fri.uniza.sk (Ing. )
+Ing. Miroslav Potočár                    Miroslav.Potocar@fri.uniza.sk (Ing. )
+Ing. Ivan Škula                          ivan.skula@fri.uniza.sk (Ing. )
+Ing. Radoslav Štefánek                   radoslav.stefanek@fri.uniza.sk (Ing. )

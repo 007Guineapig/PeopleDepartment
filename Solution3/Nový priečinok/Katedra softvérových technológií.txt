@@ -1,0 +1,37 @@
+Katedra softvérových technológií
+
+Vedúci: Ing. Viliam Tavač, PhD. (Ing. Viliam PhD.)
+Zástupca vedúceho: RNDr. Hynek Bachratý, PhD. (RNDr. Hynek PhD.)
+Sekretariát: Mgr. Iveta Belošovičová (Mgr. )
+
+Celkový počet zamestnancov: 17
+Počet profesorov (s titulom prof.): 2
+Počet docentov (s titulom doc.): 3
+Počet doktorandov (PhD. študentov): 6
+
+Zamestnanci:
+doc. RNDr. Katarína Bachratá, PhD.       Katarina.Bachrata@fri.uniza.sk (doc. RNDr. Katarína PhD.)
+RNDr. Hynek Bachratý, PhD.               Hynek.Bachraty@fri.uniza.sk (RNDr. Hynek PhD.)
+Mgr. Iveta Belošovičová                  Iveta.Belosovicova@fri.uniza.sk (Mgr. )
+prof. Mgr. Ivan Cimrák, Dr.              Ivan.Cimrak@fri.uniza.sk (prof. Mgr. Ivan Dr.)
+Ing. Michal Ďuračík, PhD.                Michal.Duracik@fri.uniza.sk (Ing. Michal PhD.)
+Mgr. Kristína Ďuračíková, PhD.           Kristina.Kovalcikova@fri.uniza.sk (Mgr. Kristína PhD.)
+Ing. Miroslav Gábor, PhD.                Miroslav.Gabor@fri.uniza.sk (Ing. Miroslav PhD.)
+doc. Ing. Patrik Hrkút, PhD.             Patrik.Hrkut@fri.uniza.sk (doc. Ing. Patrik PhD.)
+doc. Ing. Ján Janech, PhD.               Jan.Janech@fri.uniza.sk (doc. Ing. Ján PhD.)
+prof. Ing. Emil Kršák, PhD.              Emil.Krsak@fri.uniza.sk (prof. Ing. Emil PhD.)
+Ing. Matej Meško, PhD.                   Matej.Mesko@fri.uniza.sk (Ing. Matej PhD.)
+Mgr. Peter Novotný, PhD.                 peter.novotny@fri.uniza.sk (Mgr. Peter PhD.)
+Ing. Ján Ružbarský, PhD.                 Jan.Ruzbarsky@fri.uniza.sk (Ing. Ján PhD.)
+Mgr. Monika Smiešková, PhD.              Monika.Smieskova@fri.uniza.sk (Mgr. Monika PhD.)
+Ing. Marek Tavač, PhD.                   Marek.Tavac@fri.uniza.sk (Ing. Marek PhD.)
+Ing. Viliam Tavač, PhD.                  Viliam.Tavac@fri.uniza.sk (Ing. Viliam PhD.)
+Ing. Štefan Toth, PhD.                   Stefan.Toth@fri.uniza.sk (Ing. Štefan PhD.)
+
+Doktorandi:
+Mgr. Alžbeta Bugáňová                    alzbeta.buganova@fri.uniza.sk (Mgr. )
+Mgr. Samuel Molčan                       Samuel.Molcan@fri.uniza.sk (Mgr. )
+Ing. Adam Mračko                         Adam.Mracko@fri.uniza.sk (Ing. )
+Ing. Michal Mulík                        Michal.Mulik@fri.uniza.sk (Ing. )
+Ing. Dominika Petríková                  Dominika.Petrikova@fri.uniza.sk (Ing. )
+Ing. Lucia Piatriková                    Lucia.Piatrikova@fri.uniza.sk (Ing. )

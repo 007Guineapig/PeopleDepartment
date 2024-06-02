@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Program": {
+      "commandName": "Project",
+      "commandLineArgs": "\r\n--input \"C:\\Users\\lucsm\\source\\repos\\Solution3\\Program\\people-fri1.csv\" --template \"C:\\Users\\lucsm\\source\\repos\\Solution3\\Program\\templ-dep-sk.txt\" --output "
+    }
+  }
+}
